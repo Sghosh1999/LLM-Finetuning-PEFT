@@ -1,5 +1,10 @@
 # Fine-Tuning Llama 3.1/3.2 1B with QLoRA & Unsloth: Professional Guide
 
+## Links
+
+- **Kaggle Notebook:** [Finetuning Llama3-1.1B SFT QLoRA Unsloth](https://www.kaggle.com/code/sghosh99/finetuning-llama3-1-1b-sft-qlora-unsloth/notebook?scriptVersionId=245754632)
+- **Hugging Face Model:** [SGHOSH1999/FineLlama3.1-1B-Instruct](https://huggingface.co/SGHOSH1999/FineLlama3.1-1B-Instruct)
+
 ## Overview
 
 This repository provides a comprehensive notebook for fine-tuning Llama 3.1/3.2 1B models using QLoRA and the Unsloth library. The workflow is designed for efficient, parameter-efficient fine-tuning (PEFT) on conversational datasets, leveraging advanced techniques such as 4-bit quantization, LoRA adapters, and gradient checkpointing. The notebook is optimized for both research and production, supporting rapid experimentation and deployment.
